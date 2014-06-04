@@ -20,7 +20,7 @@ namespace Jiffy_WiDMX
 
 		public FirstViewController (IntPtr handle) : base (handle)
 		{
-			this.Title = NSBundle.MainBundle.LocalizedString ("First", "First");
+			this.Title = NSBundle.MainBundle.LocalizedString ("Mixer", "Mixer");
 			this.TabBarItem.Image = UIImage.FromBundle ("first");
 		}
 
