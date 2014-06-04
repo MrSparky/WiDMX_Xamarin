@@ -1,0 +1,12 @@
+# Ignore System and User-Settings files
+*.pidb
+*.userprefs
+*.swp
+*.DS_Store
+*.nib
+
+# Ignore Intermediate & Ouput directories
+*/bin/*
+*/obj/*
+*/*/bin/*
+*/*/obj/*
