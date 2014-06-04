@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Jiffy_WiDMX</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.your-company.Jiffy_WiDMX</string>
+	<string>com.JiffyApps.WiDMX</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -30,15 +30,16 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationPortraitUpsideDown</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>Icon@2x</string>
+		<string>Icon</string>
+		<string>Icon-60@2x</string>
 	</array>
 </dict>
 </plist>

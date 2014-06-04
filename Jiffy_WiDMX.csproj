@@ -122,6 +122,13 @@
     <BundleResource Include="Resources\first%402x.png" />
     <BundleResource Include="Resources\second.png" />
     <BundleResource Include="Resources\second%402x.png" />
+    <BundleResource Include="Resources\Default%402x.png" />
+    <BundleResource Include="Resources\Icon%402x.png" />
+    <BundleResource Include="Resources\Icon.png" />
+    <BundleResource Include="Resources\Icon-60%402x.png" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ITunesArtwork Include="iTunesArtwork" />
+  </ItemGroup>
 </Project>
